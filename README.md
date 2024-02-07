@@ -6,6 +6,7 @@ FullStack Web developer
 
 * 🌍  I'm based in Almaty
 * ✉️  You can contact me at [nuriddin.atabek2000@gmail.com](mailto:nuriddin.atabek2000@gmail.com)
+* 📞  Or by phone [87762492000](tel:87762492000)
 
 ### Skills
 
