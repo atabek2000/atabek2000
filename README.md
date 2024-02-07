@@ -16,6 +16,18 @@ FullStack Web developer
 </p>
 
 
+
+### Опыт работы
+
+
+#### CeramoStone.kz - FullStack разработчик
+
+Обязанности и достижения:
+
+ - Создал СРМ для компании используя VueJs, ExpressJs, и интегрировал с Whatsapp что бы сотрудники получали уведомления в реальном времени. 
+
+ - Сделал интернет магазин используя стек NuxtJs, Django Rest Framework. И интегрировал с 1С.
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/atabek2000" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/atabek" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
