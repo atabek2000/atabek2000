@@ -20,18 +20,18 @@ FullStack Web developer
 ### Опыт работы
 
 
-  #### [CeramoStone.kz](CeramoStone.kz) - FullStack разработчик
+  #### [CeramoStone.kz](https://CeramoStone.kz) - FullStack разработчик
 
   Обязанности и достижения:
    - Создал СРМ для компании используя VueJs, ExpressJs, и интегрировал с Whatsapp что бы сотрудники получали уведомления в реальном времени. 
    - Сделал интернет магазин используя стек NuxtJs, Django Rest Framework. И интегрировал с 1С.
 
-  #### [Ecogov.kz](Ecogov.kz) - Frontend разработчик
+  #### [Ecogov.kz](https://Ecogov.kz) - Frontend разработчик
 
   Обязанности и достижения:
     - Написание фронт части приложения
 
-  #### [Asistent.kz](Asistent.kz) - Fullstack разработчик
+  #### [Asistent.kz](https://Asistent.kz) - Fullstack разработчик
 
   Обязанности и достижения:
    - Перенес сайт с php 5, на php8.
