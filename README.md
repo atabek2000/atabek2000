@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Atabek
+Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Атабек
 ==============================================================================================================================
 
 FullStack Web developer
 -----------------------
 
-* 🌍  I'm based in Almaty
-* ✉️  You can contact me at [nuriddin.atabek2000@gmail.com](mailto:nuriddin.atabek2000@gmail.com)
+* 🌍  Местонахожления - Алматы
+* ✉️  Можете связаться со мной [nuriddin.atabek2000@gmail.com](mailto:nuriddin.atabek2000@gmail.com)
 * 📞  [+7-776-249-20-00](tel:+77762492000)
 
 ### Skills
