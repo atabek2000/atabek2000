@@ -28,7 +28,7 @@ FullStack Web developer
    - Создал СРМ для компании используя VueJs, ExpressJs, и интегрировал с Whatsapp что бы сотрудники получали уведомления в реальном времени. 
    - Сделал интернет магазин используя стек NuxtJs, Django Rest Framework. И интегрировал с 1С.
 
-  #### [Ecogov.kz](https://Ecogov.kz) - Frontend разработчик
+  #### [Ecogov.kz](https://company.ecogov.kz) - Frontend разработчик
 
   Обязанности и достижения:
     - Написание фронт части приложения
