@@ -20,12 +20,10 @@ FullStack Web developer
 ### Опыт работы
 
 
-#### CeramoStone.kz - FullStack разработчик
+#### * CeramoStone.kz - FullStack разработчик
 
 Обязанности и достижения:
-
  - Создал СРМ для компании используя VueJs, ExpressJs, и интегрировал с Whatsapp что бы сотрудники получали уведомления в реальном времени. 
-
  - Сделал интернет магазин используя стек NuxtJs, Django Rest Framework. И интегрировал с 1С.
 
 ### Socials
