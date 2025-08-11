@@ -35,8 +35,17 @@ Frontend разработчик (Vue/Nuxt, TS)
   #### [CeramoStone.kz](https://CeramoStone.kz) - FullStack разработчик
 
   Обязанности и достижения:
-   - Создал СРМ для компании используя VueJs, ExpressJs, и интегрировал с Whatsapp что бы сотрудники получали уведомления в реальном времени. 
-   - Сделал интернет магазин используя стек NuxtJs, Django Rest Framework. И интегрировал с 1С.
+   СРМ
+   - Спроектировал и разработал CRM: фронтенд на Vue.js, бэкенд на Express.js.
+   - Настроил уведомления в реальном времени и интегрировал с WhatsApp.
+   - Реализовал аутентификацию и роли, журнал действий, базовые отчёты.
+   - Организовал деплой и поддержку.
+   Интернет магазин
+   - Разработал витрину на Nuxt.js (SSR/SPA), каталоги, поиск, фильтры, корзину/чекаут.
+   - Создал API и админку на Django REST Framework.
+   - Интегрировал 1С: двусторонняя синхронизация номенклатуры, цен и остатков.
+   - Настроил SEO-базу: мета-теги, sitemap/robots, каноникал, редиректы.
+   - Обеспечил деплой и поддержку окружений .
 
   #### [Ecogov.kz](https://company.ecogov.kz) - Frontend разработчик
 
@@ -46,9 +55,11 @@ Frontend разработчик (Vue/Nuxt, TS)
   #### [Asistent.kz](https://Asistent.kz) - Fullstack разработчик
 
   Обязанности и достижения:
-   - Перенес сайт с php 5, на php8.
-   - Сделал Api для моб. приложения.
-   - Усовершентвовал функциональность сайта.
+   - Миграция проекта с PHP 5 на PHP 8 с адаптацией кода и совместимостью с актуальными библиотеками.
+   - Разработка и внедрение REST API для мобильного приложения (аутентификация, обмен данными, оптимизация запросов).
+   - Доработка и расширение функциональности сайта: улучшение UI/UX, оптимизация производительности, исправление багов.
+
+
 
 -----------------------
 
@@ -64,4 +75,4 @@ Frontend разработчик (Vue/Nuxt, TS)
 
 ### Соц. сети
 
-<p align="left"> <a href="https://www.github.com/atabek2000" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/atabek" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/atabek2000" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://linkedin.com/in/atabek-nuriddinov-67593a211" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
